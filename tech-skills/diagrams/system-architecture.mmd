@@ -1,0 +1,19 @@
+flowchart TD
+    A[Web / Mobile Client] --> B[API Gateway]
+
+    B --> C[Movie Service]
+    B --> D[Theatre Service]
+    B --> E[Booking Service]
+    B --> F[Payment Service]
+
+    C --> G[(Movie Database)]
+    D --> H[(Theatre Database)]
+    E --> I[(Booking Database)]
+    E --> J[(Redis)]
+    F --> K[Payment Provider]
+
+    E --> L[Kafka]
+    L --> M[Notification Service]
+    M --> N[Email / SMS / Push Provider]
+
+    B --> O[Authentication / Authorization]
