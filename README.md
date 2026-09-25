@@ -1,14 +1,9 @@
-# Client Screening - CineBook - A movie Ticket Booking System
+# Client Screening
 
 ## Repository Purpose
 
 This repository contains the technical design and implementation artifacts for a scalable movie 
-ticket booking system, and it also contains the written and audio responses to the interview questions. 
-
-### About the project
-It is a movie ticket booking system that allows users to discover movies and theatres,
-The project demonstrates backend architecture, database design, booking workflows, 
-concurrency handling, and technical design decisions using Java and Spring Boot.
+ticket booking system, and it also contains the written and audio responses to the interview questions.
 
 ## Repository Structure
 
