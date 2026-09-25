@@ -1,5 +1,4 @@
-Question 1.Is there any situation that describes an unconventional route taken in your experience?
-If so, please share a paragraph or two about this.
+### Question 1. Is there any situation that describes an unconventional route taken in your experience? If so, please share a paragraph or two about this.
 
 Answer -
 In one of my projects, I faced a challenge where the team was struggling to migrate
@@ -20,9 +19,7 @@ It reinforced the value of thinking creatively and not being afraid to step outs
 standard methods when the situation demands it.
 
 
-Question 2. Do you recall a situation where you intensely and relentlessly focused to complete a task
-(can be professional work or hobby) that helped you grow?
-If so, please describe this experience in a paragraph or two.
+### Question 2. Do you recall a situation where you intensely and relentlessly focused to complete a task (can be professional work or hobby) that helped you grow? If so, please describe this experience in a paragraph or two.
 
 Answer - For one of my projects, I had to study monolithic architecture in depth. 
 Since the codebase was large and tightly coupled, I integrated GitHub Copilot directly 
@@ -35,8 +32,7 @@ monolithic systems with microservices.
 
 
 
-Question 3. Describe an experience of joining new team, project or environment where there was significant amount of context, information or complexity to absorb in a relatively short period of time.
-How did you approach learning, building clarity, prioritizing what to focus on and gradually becoming effective?
+### Question 3. Describe an experience of joining new team, project or environment where there was significant amount of context, information or complexity to absorb in a relatively short period of time. How did you approach learning, building clarity, prioritizing what to focus on and gradually becoming effective?
 
 Answer - When I joined my previous project, I had to quickly understand an existing application, 
 its business workflows, technical architecture, and the responsibilities of different modules.
