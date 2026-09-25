@@ -29,7 +29,7 @@ Since the codebase was large and tightly coupled, I integrated GitHub Copilot di
 into my IDE to accelerate my learning. I used Copilot to generate code snippets, explain
 legacy functions, and suggest refactoring approaches, which helped me quickly understand how 
 the presentation, business logic, and database layers interacted in a single deployable unit. 
-By iteratively prompting Copilot, I could visualize bottlenecks like scaling issues and deployment
+By iteratively prompting the AI, I could visualize bottlenecks like scaling issues and deployment
 risks, and this hands-on exploration gave me a solid foundation to later compare 
 monolithic systems with microservices.
 
